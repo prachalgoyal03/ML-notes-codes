@@ -1,1 +1,2 @@
-# ML-notes-codes
+# Machine learning 
+Notes/Codes Templates
